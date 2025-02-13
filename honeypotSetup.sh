@@ -1,8 +1,7 @@
 # !/bin/bash 
 
-sudo apt-get install -y python3-all 
 sudo apt-get install -y git 
-sudo apt install -y python3.10-venv
+sudo apt install python3 python3-venv python3-pip -y
 
 git clone https://github.com/Sarathrsk03/testHoneyPot
 
